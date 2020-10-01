@@ -1,0 +1,15 @@
+.fishlist{
+    background-color: crimson;
+}
+
+.fish__container{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.fish {
+    border: 1px solid black;
+    flex-basis: 24%;
+
+}
+

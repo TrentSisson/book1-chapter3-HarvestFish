@@ -1,0 +1,42 @@
+@import "./fishlist.css";
+
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+
+
+body,
+button,
+input,
+select,
+textarea{
+    color: black ;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+    font-size: small;
+    line-height: 1;
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-weight: "patua one", serif;
+    letter-spacing: 2px;
+}
+
+img{
+    width:150px;
+    height: 100px;
+    
+}
+
+.contentContainer{
+    display: flex;
+}
+
+.contentContainer__left{
+flex: 3;
+}
+
+.contentContainer__right{
+flex: 1;
+}
+
+section, article, aside{
+    border: 1px solid blue;
+}
