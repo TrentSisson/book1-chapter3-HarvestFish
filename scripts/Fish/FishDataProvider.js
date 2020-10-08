@@ -29,7 +29,7 @@ const fishCollection = [
         SPECIES: "Exyrias akihito",
         LENGTH: "11.1 cm",
         LOCATION: "Nagasaki Japan",
-        IMAGE:"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcREL7Cdb-6okSwlFQ-Acxqicon_YV0Po5ZbcQ&usqp=CAU"
+        IMAGE:"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRp8Q2c0BGDzlYTLwVi2QycBvEfd-Zp7OpqOg&usqp=CAU"
     },
 
 ]

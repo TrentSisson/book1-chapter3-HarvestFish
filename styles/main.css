@@ -14,7 +14,7 @@ textarea{
     line-height: 1;
 }
 
-h1,h2,h3,h4,h5,h6{
+h1,h2,h4,h5,h6{
     font-weight: "patua one", serif;
     letter-spacing: 2px;
 }
@@ -34,7 +34,7 @@ flex: 1;
 }
 
 .tipsList_contentContainer__right{
-flex: .2;
+flex: .3;
 }
 
 section, article, aside{
