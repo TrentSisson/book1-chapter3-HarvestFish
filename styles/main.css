@@ -30,11 +30,11 @@ img{
 }
 
 .contentContainer__left{
-flex: 3;
+flex: 1;
 }
 
-.contentContainer__right{
-flex: 1;
+.tipsList_contentContainer__right{
+flex: .2;
 }
 
 section, article, aside{
