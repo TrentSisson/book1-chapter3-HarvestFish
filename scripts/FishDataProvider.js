@@ -30,10 +30,14 @@ const fishCollection = [
         LENGTH: "11.1 cm",
         LOCATION: "Nagasaki Japan",
         IMAGE:"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcREL7Cdb-6okSwlFQ-Acxqicon_YV0Po5ZbcQ&usqp=CAU"
-    }
+    },
 
 ]
 
 export const useFish = () => {
     return fishCollection.slice()
+}
+
+export const addFish = (fishObject) => {
+    fishCollection.push(fishObject)
 }
