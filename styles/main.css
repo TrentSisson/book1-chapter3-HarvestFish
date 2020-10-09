@@ -12,6 +12,7 @@ textarea{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
     font-size: small;
     line-height: 1;
+    background-color: skyblue;
 }
 
 h1,h2,h4,h5,h6{
@@ -38,5 +39,5 @@ flex: .3;
 }
 
 section, article, aside{
-    border: 1px solid blue;
+flex-wrap: wrap;
 }
